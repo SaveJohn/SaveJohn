@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabina!
-- 👀 I’m interested in art, music, nature, games and technology
-- 🌱 I’m currently learning C# and .NET in school, and Python with Django on my spare time.
+- 👀 My hobbies involve art, piano, hiking, gaming, programming and my dog.
+- 🌱 I’m currently learning C# in school, and Python with Django on my spare time.
 - 💞️ I’m looking to collaborate on anything that will help me grow as a programmer!
 - 📫 You can reach me on
       - Email: SabinaVedvikJohnsen@gmail.com
