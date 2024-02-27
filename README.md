@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sabina V Johnsen
+- 👋 Hi, I’m Sabina!
 - 👀 I’m interested in art, music, nature, games and technology
-- 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on anything cool!
+- 🌱 I’m currently learning C# and .NET in school, and Python with Django on my spare time.
+- 💞️ I’m looking to collaborate on anything that will help me grow as a programmer!
 - 📫 You can reach me on
       - Email: SabinaVedvikJohnsen@gmail.com
       - LinkedIn: https://www.linkedin.com/in/sabina-vedvik-johnsen-822620207/
